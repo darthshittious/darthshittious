@@ -19,7 +19,7 @@ If you ever need to contact me, you can find me through any of these (or the ema
 |:-:|:-:|
 |GitHub|Well, you're here!|
 |Twitter|[@varunj2601](https://twitter.com/varunj2601) (not recommended, I rarely use Twitter)|
-|Telegram|[here](t.me/extremely_slim_shady) (I do check this fairly often)|
+|Telegram|[here](https://t.me/extremely_slim_shady) (I do check this fairly often)|
 
 ## Work/Projects
 
