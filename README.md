@@ -1,44 +1,85 @@
-# Hi there 👋
+***
 
-<!--![Varun's github stats](https://github-readme-stats.vercel.app/api?username=darthshittious&theme=dark)-->
-I'm Varun. No idea why you're looking here, but here goes
+<h1 align="center">
+Hey there 👋
+</h1>
 
-## Bio
+***
 
-I'm a med student, so I'm obviously not going to be very active here. However, I've always had a passion for programming, and am currently using and proficient at Docker and K8s.
+I'm Varun. No idea what you're looking for here, but here's some cool stuff anyway.
 
-I've been an avid Python programmer since March 2016 and I rather enjoy the language. I've also dabbled in lower level languages like Rust, C++, and C.
+<h2>
+Bio
+</h2>
 
-Kotlin/Java are hobbies, but more small time (no, not Android welp).
+***
 
-## Contact
+I am a med student, so I'm obviously not going to be very active here. However, I've always had a passion for programming, and am currently using and proficient at Docker and K8s.
 
+I've been an avid Python programmer since March 2016, and I rather enjoy the language. I've also dabbled in lower level languages like Rust, C++, and C.
+
+Kotlin/Java are hobbies, but more small-time (no, not Android welp).
+
+<h2>
+Contact
+</h2>
+
+***
 If you ever need to contact me, you can find me through any of these (or the email in my profile):
 
-|Discord|[VJ#9010](https://discord.com/users/411166117084528640) (recommended)|
-|:-:|:-:|
-|GitHub|Well, you're here!|
-|Twitter|[@varunj2601](https://twitter.com/varunj2601) (not recommended, I rarely use Twitter)|
-|Telegram|[here](https://t.me/extremely_slim_shady) (I do check this fairly often)|
+<table>
+<tr>
+<th>
+<strong>Discord</strong>
+</th>
+<td>
+<a href="https://discord.com/users/411166117084528640">VJ#9010</a> (recommended)
+</td>
+</tr>
+<tr>
+<th>GitHub</th>
+<td>Well, you're here!</td>
+</tr>
+<tr>
+<th>Twitter</th>
+<td><a href="https://twitter.com/varunj2601">@varunj2601</a> (not recommended, I rarely use Twitter)</td>
+</tr>
+<tr>
+<th>Telegram</th>
+<td><a href="https://t.me/extremely_slim_shady">here</a> (I do check this fairly often)</td></tr>
+</table>
 
-## Work/Projects
+<h2>Work/Projects</h2>
 
-A number of my projects are currently closed source until I'm at a stage where I ~~won't be roasted~~ am comfortable with their quality, so not much of a portfolio here,
+***
+A number of my projects are currently closed source until I'm at a stage where I
+~~won't be roasted~~ am comfortable with their quality, so not much of a portfolio here,
 but I promise I'm good at this stuff.
 
 I'm looking to contribute on C/Java/Python projects, if you want some bad jokes in your commit messages.
 
-<!--
-**darthshittious/darthshittious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a fun demonstration of what I can do, this README *dynamically updates* using GitHub Actions every hour.
+It last updated at **24-01-2021, 14:09 UTC**.
+***
+<details>
+<summary>🕑 World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
-Here are some ideas to get you started:
+> <img src="generated/now.png" width="512">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
+<details>
+<summary>🌔 Lunar phase</summary>
+
+The moon is approximately 40.58% through its phase (Waxing Gibbous).
+
+</details>
+<details>
+<summary>&#x1f5bc; Fractal of the hour</summary>
+
+> <img src="generated/fractal.png" width="512">
+
+</details>
+<details>
+<summary>&#x23f2; Year percentage bar</summary>
+<pre><code>2021 [█▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 6.46%</code></pre>
+</details>
