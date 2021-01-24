@@ -33,12 +33,12 @@ TIMEZONES = (
 )
 
 
-def create_color_circle(size: int) -> Image.Image:
-    # This function is the slow way to generate the color circle used to tint the globe image.
+def create_colour_circle(size: int) -> Image.Image:
+    # This function is the slow way to generate the colour circle used to tint the globe image.
     # In the actual function, a cached version is loaded instead
-    LOG.info('Generating color circle of size %dx%d', size, size)
+    LOG.info('Generating colour circle of size %dx%d', size, size)
 
-    im = Image.new('RGB', (size, size), color=(0, 0, 0))
+    im = Image.new('RGB', (size, size), (0, 0, 0))
 
     for y in range(im.height):
         for x in range(im.width):
@@ -89,16 +89,16 @@ def generate(time: datetime.datetime) -> Image.Image:
             # Rotate by hours
             globe = globe.rotate(-15 * (utc.hour - 11.5))
 
-            # Load the cached color circle
+            # Load the cached colour circle
             # To do the slow but cacheless method, replace this with:
-            #   with create_color_circle(globe.width) as color_circle:
-            LOG.info('Loading color circle')
-            with Image.open(NOW / 'color_circle.png') as color_circle:
-                color_circle = color_circle.convert('RGB').resize(globe.size, Image.ANTIALIAS)
+            #   with create_colour_circle(globe.width) as colour_circle:
+            LOG.info('Loading colour circle')
+            with Image.open(NOW / 'colour_circle.png') as colour_circle:
+                colour_circle = colour_circle.convert('RGB').resize(globe.size, Image.ANTIALIAS)
 
                 # Paste in middle
                 LOG.info('Pasting globe')
-                outer_ring.paste(color_circle, (
+                outer_ring.paste(colour_circle, (
                     round((outer_ring.width - globe.width) / 2),
                     round((outer_ring.height - globe.height) / 2),
                 ), mask=globe)
