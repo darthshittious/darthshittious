@@ -30,6 +30,7 @@ TIMEZONES = (
     ("Shanghai", tz.gettz("Asia/Shanghai")),
     ("Tokyo", tz.gettz("Asia/Tokyo")),
     ("Urumqi", tz.gettz("Asia/Urumqi")),
+    ("Kolkata", tz.gettz("Asia/Kolkata")),
 )
 
 
