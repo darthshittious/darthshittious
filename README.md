@@ -59,10 +59,10 @@ but I promise I'm good at this stuff.
 I'm looking to contribute on C/Java/Python projects, if you want some bad jokes in your commit messages.
 
 As a fun demonstration of what I can do, this README *dynamically updates* using GitHub Actions every hour.
-It last updated at **06-03-2021, 05:13 UTC**.
+It last updated at **06-03-2021, 06:15 UTC**.
 ***
 <details>
-<summary>🕔 World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕕 World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -70,7 +70,7 @@ It last updated at **06-03-2021, 05:13 UTC**.
 <details>
 <summary>🌗 Lunar phase</summary>
 
-The moon is approximately 78.16% through its phase (Last Quarter).
+The moon is approximately 78.31% through its phase (Last Quarter).
 
 </details>
 <details>
@@ -81,5 +81,5 @@ The moon is approximately 78.16% through its phase (Last Quarter).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 17.59%</code></pre>
+<pre><code>2021 [███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 17.61%</code></pre>
 </details>
