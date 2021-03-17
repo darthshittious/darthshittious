@@ -18,7 +18,7 @@ I am a med student, so I'm obviously not going to be very active here. However, 
 
 I've been an avid Python programmer since March 2016, and I rather enjoy the language. I've also dabbled in lower level languages like Rust, C++, and C.
 
-Kotlin/Java are hobbies, but more small-time (no, not Android welp).
+Kotlin/Java are hobbies, but more small-time (no, not Android welp). I like <a href="https://github.com/droidthug">Jake</a>.
 
 <h2>
 Contact
