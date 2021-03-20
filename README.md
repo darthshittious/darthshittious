@@ -33,7 +33,7 @@ If you ever need to contact me, you can find me through any of these (or the ema
 <strong>Discord</strong>
 </th>
 <td>
-<a href="https://discord.com/users/411166117084528640">VJ#9010</a> (recommended)
+<a href="https://discord.com/users/411166117084528640">VJ#0001</a> (recommended)
 </td>
 </tr>
 <tr>
@@ -59,10 +59,10 @@ but I promise I'm good at this stuff.
 I'm looking to contribute on C/Java/Python projects, if you want some bad jokes in your commit messages.
 
 As a fun demonstration of what I can do, this README *dynamically updates* using GitHub Actions every hour.
-It last updated at **20-03-2021, 15:15 UTC**.
+It last updated at **20-03-2021, 16:28 UTC**.
 ***
 <details>
-<summary>🕒 World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕓 World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -70,7 +70,7 @@ It last updated at **20-03-2021, 15:15 UTC**.
 <details>
 <summary>🌓 Lunar phase</summary>
 
-The moon is approximately 26.98% through its phase (First Quarter).
+The moon is approximately 27.16% through its phase (First Quarter).
 
 </details>
 <details>
@@ -81,5 +81,5 @@ The moon is approximately 26.98% through its phase (First Quarter).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 21.54%</code></pre>
+<pre><code>2021 [████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 21.56%</code></pre>
 </details>
