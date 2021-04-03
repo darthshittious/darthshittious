@@ -56,7 +56,7 @@ A number of my projects are currently closed source until I'm at a stage where I
 ~~won't be roasted~~ am comfortable with their quality, so not much of a portfolio here,
 but I promise I'm good at this stuff.
 
-I'm looking to contribute on C/Java/Python projects, if you want some bad jokes in your commit messages.
+I'm looking to contribute on C/Rust/Python projects, if you want some bad jokes in your commit messages.
 
 As a fun demonstration of what I can do, this README *dynamically updates* using GitHub Actions every hour.
 It last updated at **{{ format(now, "%d-%m-%Y, %H:%M UTC") }}**.
