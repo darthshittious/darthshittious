@@ -42,7 +42,7 @@ If you ever need to contact me, you can find me through any of these (or the ema
 </tr>
 <tr>
 <th>Twitter</th>
-<td><a href="https://twitter.com/varunj2601">@varunj2601</a> (not recommended, I rarely use Twitter)</td>
+<td><a href="https://twitter.com/darthshittious">@darthshittious</a> (not recommended, I rarely use Twitter)</td>
 </tr>
 <tr>
 <th>Telegram</th>
