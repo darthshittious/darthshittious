@@ -56,13 +56,13 @@ A number of my projects are currently closed source until I'm at a stage where I
 ~~won't be roasted~~ am comfortable with their quality, so not much of a portfolio here,
 but I promise I'm good at this stuff.
 
-I'm looking to contribute on C/Java/Python projects, if you want some bad jokes in your commit messages.
+I'm looking to contribute on C/Rust/Python projects, if you want some bad jokes in your commit messages.
 
 As a fun demonstration of what I can do, this README *dynamically updates* using GitHub Actions every hour.
-It last updated at **03-04-2021, 12:05 UTC**.
+It last updated at **03-04-2021, 13:09 UTC**.
 ***
 <details>
-<summary>🕛 World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕐 World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -70,7 +70,7 @@ It last updated at **03-04-2021, 12:05 UTC**.
 <details>
 <summary>🌗 Lunar phase</summary>
 
-The moon is approximately 73.95% through its phase (Last Quarter).
+The moon is approximately 74.10% through its phase (Last Quarter).
 
 </details>
 <details>
@@ -81,5 +81,5 @@ The moon is approximately 73.95% through its phase (Last Quarter).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [█████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 25.34%</code></pre>
+<pre><code>2021 [█████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 25.36%</code></pre>
 </details>
