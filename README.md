@@ -59,18 +59,18 @@ but I promise I'm good at this stuff.
 I'm looking to contribute on C/Rust/Python projects, if you want some bad jokes in your commit messages.
 
 As a fun demonstration of what I can do, this README *dynamically updates* using GitHub Actions every hour.
-It last updated at **16-04-2021, 17:18 UTC**.
+It last updated at **16-04-2021, 18:12 UTC**.
 ***
 <details>
-<summary>🕔 World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕕 World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
 </details>
 <details>
-<summary>🌒 Lunar phase</summary>
+<summary>🌓 Lunar phase</summary>
 
-The moon is approximately 18.71% through its phase (Waxing Crescent).
+The moon is approximately 18.83% through its phase (First Quarter).
 
 </details>
 <details>
@@ -81,5 +81,5 @@ The moon is approximately 18.71% through its phase (Waxing Crescent).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [█████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 28.96%</code></pre>
+<pre><code>2021 [█████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 28.97%</code></pre>
 </details>
