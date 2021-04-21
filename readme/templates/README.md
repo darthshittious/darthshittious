@@ -33,7 +33,7 @@ If you ever need to contact me, you can find me through any of these (or the ema
 <strong>Discord</strong>
 </th>
 <td>
-<a href="https://discord.com/users/411166117084528640">VJ#0001</a> (recommended)
+<a href="https://discord.com/users/411166117084528640">VJ#5945</a> (recommended)
 </td>
 </tr>
 <tr>
