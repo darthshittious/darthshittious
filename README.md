@@ -33,7 +33,7 @@ If you ever need to contact me, you can find me through any of these (or the ema
 <strong>Discord</strong>
 </th>
 <td>
-<a href="https://discord.com/users/411166117084528640">VJ#0001</a> (recommended)
+<a href="https://discord.com/users/411166117084528640">VJ#5945</a> (recommended)
 </td>
 </tr>
 <tr>
@@ -59,7 +59,7 @@ but I promise I'm good at this stuff.
 I'm looking to contribute on C/Rust/Python projects, if you want some bad jokes in your commit messages.
 
 As a fun demonstration of what I can do, this README *dynamically updates* using GitHub Actions every hour.
-It last updated at **21-04-2021, 14:04 UTC**.
+It last updated at **21-04-2021, 14:18 UTC**.
 ***
 <details>
 <summary>🕑 World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
@@ -70,7 +70,7 @@ It last updated at **21-04-2021, 14:04 UTC**.
 <details>
 <summary>🌔 Lunar phase</summary>
 
-The moon is approximately 35.18% through its phase (Waxing Gibbous).
+The moon is approximately 35.21% through its phase (Waxing Gibbous).
 
 </details>
 <details>
