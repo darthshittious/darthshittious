@@ -58,8 +58,18 @@ but I promise I'm good at this stuff.
 
 I'm looking to contribute on C/Rust/Python projects, if you want some bad jokes in your commit messages.
 
+<h2>Devices</h2>
+
+***
+- <img src="assets/android.png" width="18" style="vertical-align: middle"> `Isengard`
+- <img src="assets/arch.png" width="18" style="vertical-align: middle"> `Mordor` - Daily driver
+- <img src="assets/windows.png" width="18" style="vertical-align: middle"> `Gondor` - College/music
+- <img src="assets/ubuntu.png" width="18" style="vertical-align: middle"> `Shire` - Server host
+- <img src="assets/ubuntu.png" width="18" style="vertical-align: middle"> `Rivendell` - Alternate server host
+
+***
 As a fun demonstration of what I can do, this README *dynamically updates* using GitHub Actions every hour.
-It last updated at **01-07-2021, 08:23 UTC**.
+It last updated at **01-07-2021, 08:43 UTC**.
 ***
 <details>
 <summary>🕗 World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
@@ -70,7 +80,7 @@ It last updated at **01-07-2021, 08:23 UTC**.
 <details>
 <summary>🌗 Lunar phase</summary>
 
-The moon is approximately 74.81% through its phase (Last Quarter).
+The moon is approximately 74.85% through its phase (Last Quarter).
 
 </details>
 <details>
@@ -81,5 +91,5 @@ The moon is approximately 74.81% through its phase (Last Quarter).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [█████████▁▁▁▁▁▁▁▁▁▁▁] 49.68%</code></pre>
+<pre><code>2021 [█████████▁▁▁▁▁▁▁▁▁▁▁] 49.69%</code></pre>
 </details>
