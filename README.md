@@ -68,7 +68,7 @@ I'm looking to contribute on C/Rust/Python projects, if you want some bad jokes 
 - <img src="assets/ubuntu.png" width="18" style="vertical-align: middle"> `Rivendell` - Alternate server host
 
 <ul>
-            <li> <i class="emoji android"></i> <code>Isengard</code></li>
+            <li> <img src="https://api.iconify.design/simple-icons:ubuntu?color=%23ff0000"> <code>Isengard</code></li>
             <li> <i class="emoji arch"></i> <code>Mordor</code> - Daily driver</li>
             <li> <i class="emoji windows"></i> <code>Gondor</code> - College/music</li>
             <li> <i class="emoji ubuntu"></i> <code>Shire</code> - Server host</li>
