@@ -13,25 +13,18 @@
                 width: 1em;
             }
             .android {
-                background-image: url('https://api.iconify.design/simple-icons:android.svg?color=%2330d780')
+                background-image: url('https://api.iconify.design/simple-icons:android.svg?color=%2330d780');
             }
             .arch {
-                background-image: url('https://api.iconify.design/simple-icons:archlinux.svg?color=%23168eca')
+                background-image: url('https://api.iconify.design/simple-icons:archlinux.svg?color=%23168eca');
             }
             .windows {
-                background-image: url('https://api.iconify.design/simple-icons:windows.svg?color=%2300a8e8')
+                background-image: url('https://api.iconify.design/simple-icons:windows.svg?color=%2300a8e8');
             }
             .ubuntu {
                 background-image: url('https://api.iconify.design/simple-icons:ubuntu.svg?color=%23dd4814');
             }
         </style>
-        <ul>
-            <li> <i class="emoji android"></i> <code>Isengard</code></li>
-            <li> <i class="emoji arch"></i> <code>Mordor</code> - Daily driver</li>
-            <li> <i class="emoji windows"></i> <code>Gondor</code> - College/music</li>
-            <li> <i class="emoji ubuntu"></i> <code>Shire</code> - Server host</li>
-            <li> <i class="emoji ubuntu"></i> <code>Rivendell</code> - Alternate server host</li>
-        </ul>
           </div>
     </foreignObject>
 </svg>
