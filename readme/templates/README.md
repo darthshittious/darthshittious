@@ -58,6 +58,16 @@ but I promise I'm good at this stuff.
 
 I'm looking to contribute on C/Rust/Python projects, if you want some bad jokes in your commit messages.
 
+<h2>Devices</h2>
+
+***
+- <img src="assets/android.png" width="18" style="vertical-align: middle"> `Isengard`
+- <img src="assets/arch.png" width="18" style="vertical-align: middle"> `Mordor` - Daily driver
+- <img src="assets/windows.png" width="18" style="vertical-align: middle"> `Gondor` - College/music
+- <img src="assets/ubuntu.png" width="18" style="vertical-align: middle"> `Shire` - Server host
+- <img src="assets/ubuntu.png" width="18" style="vertical-align: middle"> `Rivendell` - Alternate server host
+
+***
 As a fun demonstration of what I can do, this README *dynamically updates* using GitHub Actions every hour.
 It last updated at **{{ format(now, "%d-%m-%Y, %H:%M UTC") }}**.
 ***
