@@ -5,6 +5,7 @@ Hey there 👋
 </h1>
 
 ***
+<img src="devices.svg">
 
 I'm Varun. No idea what you're looking for here, but here's some cool stuff anyway.
 
@@ -67,6 +68,13 @@ I'm looking to contribute on C/Rust/Python projects, if you want some bad jokes 
 - <img src="assets/ubuntu.png" width="18" style="vertical-align: middle"> `Shire` - Server host
 - <img src="assets/ubuntu.png" width="18" style="vertical-align: middle"> `Rivendell` - Alternate server host
 
+<ul>
+            <li> <i class="emoji android"></i> <code>Isengard</code></li>
+            <li> <i class="emoji arch"></i> <code>Mordor</code> - Daily driver</li>
+            <li> <i class="emoji windows"></i> <code>Gondor</code> - College/music</li>
+            <li> <i class="emoji ubuntu"></i> <code>Shire</code> - Server host</li>
+            <li> <i class="emoji ubuntu"></i> <code>Rivendell</code> - Alternate server host</li>
+        </ul>
 ***
 As a fun demonstration of what I can do, this README *dynamically updates* using GitHub Actions every hour.
 It last updated at **01-07-2021, 13:24 UTC**.
