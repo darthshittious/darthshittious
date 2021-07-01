@@ -133,7 +133,7 @@ I'm looking to contribute on C/Rust/Python projects, if you want some bad jokes 
 - <img src="https://api.iconify.design/simple-icons:ubuntu.svg?color=%23d64613" width="18" style="vertical-align: middle"> `Shire` - Server host
 - <img src="https://api.iconify.design/simple-icons:ubuntu.svg?color=%23d64613" width="18" style="vertical-align: middle"> `Rivendell` - Alternate server host
 ***
-As a fun demonstration of what I can do, this README *dynamically updates* using GitHub Actions every hour.
+This README *dynamically updates* using GitHub Actions every hour.
 It last updated at **{{ format(now, "%d-%m-%Y, %H:%M UTC") }}**.
 ***
 <details>
