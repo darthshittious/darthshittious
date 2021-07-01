@@ -69,10 +69,10 @@ I'm looking to contribute on C/Rust/Python projects, if you want some bad jokes 
 
 ***
 As a fun demonstration of what I can do, this README *dynamically updates* using GitHub Actions every hour.
-It last updated at **01-07-2021, 10:23 UTC**.
+It last updated at **01-07-2021, 11:17 UTC**.
 ***
 <details>
-<summary>🕙 World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕚 World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -80,7 +80,7 @@ It last updated at **01-07-2021, 10:23 UTC**.
 <details>
 <summary>🌗 Lunar phase</summary>
 
-The moon is approximately 75.09% through its phase (Last Quarter).
+The moon is approximately 75.21% through its phase (Last Quarter).
 
 </details>
 <details>
@@ -91,5 +91,5 @@ The moon is approximately 75.09% through its phase (Last Quarter).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [█████████▁▁▁▁▁▁▁▁▁▁▁] 49.71%</code></pre>
+<pre><code>2021 [█████████▁▁▁▁▁▁▁▁▁▁▁] 49.72%</code></pre>
 </details>
