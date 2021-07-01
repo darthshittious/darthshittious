@@ -5,7 +5,6 @@ Hey there 👋
 </h1>
 
 ***
-<img src="devices.svg">
 
 I'm Varun. No idea what you're looking for here, but here's some cool stuff anyway.
 
