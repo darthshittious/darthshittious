@@ -133,8 +133,8 @@ I'm looking to contribute on C/Rust/Python projects, if you want some bad jokes 
 - <img src="https://api.iconify.design/simple-icons:ubuntu.svg?color=%23d64613" width="18" style="vertical-align: middle"> `Shire` - Server host
 - <img src="https://api.iconify.design/simple-icons:ubuntu.svg?color=%23d64613" width="18" style="vertical-align: middle"> `Rivendell` - Alternate server host
 ***
-As a fun demonstration of what I can do, this README *dynamically updates* using GitHub Actions every hour.
-It last updated at **01-07-2021, 17:00 UTC**.
+This README *dynamically updates* using GitHub Actions every hour.
+It last updated at **01-07-2021, 17:01 UTC**.
 ***
 <details>
 <summary>🕔 World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
@@ -145,7 +145,7 @@ It last updated at **01-07-2021, 17:00 UTC**.
 <details>
 <summary>🌗 Lunar phase</summary>
 
-The moon is approximately 76.02% through its phase (Last Quarter).
+The moon is approximately 76.03% through its phase (Last Quarter).
 
 </details>
 <details>
