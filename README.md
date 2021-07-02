@@ -136,7 +136,7 @@ I'm looking to contribute on C/Rust/Python projects, if you want some bad jokes 
 ***
 
 This README *dynamically updates* using GitHub Actions every hour.
-It last updated at **02-07-2021, 11:07 UTC**.
+It last updated at **02-07-2021, 11:16 UTC**.
 
 ***
 
@@ -149,7 +149,7 @@ It last updated at **02-07-2021, 11:07 UTC**.
 <details>
 <summary>🌗 Lunar phase</summary>
 
-The moon is approximately 78.58% through its phase (Last Quarter).
+The moon is approximately 78.60% through its phase (Last Quarter).
 
 </details>
 <details>
