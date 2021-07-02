@@ -132,12 +132,16 @@ I'm looking to contribute on C/Rust/Python projects, if you want some bad jokes 
 - <img src="https://api.iconify.design/simple-icons:windows.svg?color=%2300a8e8" width="18" style="vertical-align: middle"> `Gondor` - College/music
 - <img src="https://api.iconify.design/simple-icons:ubuntu.svg?color=%23d64613" width="18" style="vertical-align: middle"> `Shire` - Server host
 - <img src="https://api.iconify.design/simple-icons:ubuntu.svg?color=%23d64613" width="18" style="vertical-align: middle"> `Rivendell` - Alternate server host
+- 
 ***
+
 This README *dynamically updates* using GitHub Actions every hour.
-It last updated at **02-07-2021, 10:22 UTC**.
+It last updated at **02-07-2021, 11:06 UTC**.
+
 ***
+
 <details>
-<summary>🕙 World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕚 World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -145,7 +149,7 @@ It last updated at **02-07-2021, 10:22 UTC**.
 <details>
 <summary>🌗 Lunar phase</summary>
 
-The moon is approximately 78.47% through its phase (Last Quarter).
+The moon is approximately 78.58% through its phase (Last Quarter).
 
 </details>
 <details>
@@ -156,5 +160,5 @@ The moon is approximately 78.47% through its phase (Last Quarter).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [█████████▁▁▁▁▁▁▁▁▁▁▁] 49.98%</code></pre>
+<pre><code>2021 [█████████▁▁▁▁▁▁▁▁▁▁▁] 49.99%</code></pre>
 </details>
