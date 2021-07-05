@@ -136,12 +136,12 @@ I'm looking to contribute on C/Rust/Python projects, if you want some bad jokes 
 ***
 
 This README *dynamically updates* using GitHub Actions every hour.
-It last updated at **05-07-2021, 03:23 UTC**.
+It last updated at **05-07-2021, 04:27 UTC**.
 
 ***
 
 <details>
-<summary>🕒 World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕓 World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -149,7 +149,7 @@ It last updated at **05-07-2021, 03:23 UTC**.
 <details>
 <summary>🌘 Lunar phase</summary>
 
-The moon is approximately 87.65% through its phase (Waning Crescent).
+The moon is approximately 87.80% through its phase (Waning Crescent).
 
 </details>
 <details>
@@ -160,5 +160,5 @@ The moon is approximately 87.65% through its phase (Waning Crescent).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [██████████▁▁▁▁▁▁▁▁▁▁] 50.72%</code></pre>
+<pre><code>2021 [██████████▁▁▁▁▁▁▁▁▁▁] 50.74%</code></pre>
 </details>
