@@ -24,7 +24,7 @@ Kotlin/Java are hobbies, but more small-time (no, not Android welp).
 More recently, I've ventured into web development. I don't have the artistic eye that would make one good at frontend stuff, but I try.
 I'm really beginning to enjoy Typescript and Svelte.
 
-I am also a professional pianist/arranger/composer/music producer. (The main reason I still have a Windows PC is to run Cubase and Ableton Live, and I can't afford to maintin a Mac). 
+I am also a professional pianist/arranger/composer/music producer. (The main reason I still have a Windows PC is to run Cubase and Ableton Live, and I can't afford to maintain a Mac). 
 
 My daily driver is Arch Linux with KDE Plasma (that's right I use Arch with a DE). My text editor of choice is usually one of Jetbrains, which is mostly because I have gotten used to it, having gotten an early access license for free.
 When I want something more minimal in case I want to multitask, I usually go the other extreme and use Neovim. I also use ST4 or VS Code when I find Jetbrains too annoying.
