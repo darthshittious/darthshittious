@@ -81,7 +81,7 @@ I'm looking to contribute on Rust/Python projects, if you want some bad jokes in
 ***
 
 This README *dynamically updates* using GitHub Actions every hour.
-It last updated at **06-07-2021, 17:17 UTC**.
+It last updated at **06-07-2021, 17:24 UTC**.
 
 ***
 
@@ -94,7 +94,7 @@ It last updated at **06-07-2021, 17:17 UTC**.
 <details>
 <summary>🌘 Lunar phase</summary>
 
-The moon is approximately 92.99% through its phase (Waning Crescent).
+The moon is approximately 93.01% through its phase (Waning Crescent).
 
 </details>
 <details>
