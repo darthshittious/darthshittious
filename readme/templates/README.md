@@ -14,11 +14,20 @@ Bio
 
 ***
 
-I am a med student, so I'm obviously not going to be very active here. However, I've always had a passion for programming, and am currently using and proficient at Docker and K8s.
+I am a med student, so I'm obviously not going to be very active here. However, I've always had a passion for programming, and so, here I am.
 
-I've been an avid Python programmer since March 2016, and I rather enjoy the language. I've also dabbled in lower level languages like Rust, C++, and C.
+I've been an avid Python programmer since March 2016, and I rather enjoy the language. I've also dabbled in lower level languages like Rust and C.
+I'm learning Go and am not quite proficient at it, but I do catch on quick.
 
 Kotlin/Java are hobbies, but more small-time (no, not Android welp).
+
+More recently, I've ventured into web development. I don't have the artistic eye that would make one good at frontend stuff, but I try.
+I'm really beginning to enjoy Typescript and Svelte.
+
+I am also a professional pianist/arranger/composer/music producer. (The main reason I still have a Windows PC is to run Cubase and Ableton Live, and I can't afford to maintin a Mac). 
+
+My daily driver is Arch Linux with KDE Plasma (that's right I use Arch with a DE). My text editor of choice is usually one of Jetbrains, which is mostly because I have gotten used to it, having gotten an early access license for free.
+When I want something more minimal in case I want to multitask, I usually go the other extreme and use Neovim. I also use ST4 or VS Code when I find Jetbrains too annoying.
 
 <h2>
 Contact
@@ -56,71 +65,7 @@ A number of my projects are currently closed source until I'm at a stage where I
 ~~won't be roasted~~ am comfortable with their quality, so not much of a portfolio here,
 but I promise I'm good at this stuff.
 
-I'm looking to contribute on C/Rust/Python projects, if you want some bad jokes in your commit messages.
-
-<h2>Skills</h2>
-
-[python]: https://api.iconify.design/logos:python.svg?width=36
-[js]: https://api.iconify.design/logos:javascript.svg?width=36
-[node]: https://api.iconify.design/logos:nodejs-icon.svg?width=36
-[ts]: https://api.iconify.design/logos:typescript-icon.svg?width=36
-[rust]: https://api.iconify.design/logos:rust.svg?width=36
-[postgres]: https://api.iconify.design/logos:postgresql.svg?width=36
-[html]: https://api.iconify.design/simple-icons:html5.svg?width=36&color=%23e96228
-[css]: https://api.iconify.design/simple-icons:css3.svg?width=36&color=%232862e9
-[go]: https://api.iconify.design/logos:go.svg?width=36&height=36
-[c]: https://api.iconify.design/logos:c.svg?width=36
-[bash]: https://api.iconify.design/logos:bash-icon.svg?width=36
-[svelte]: https://api.iconify.design/logos:svelte-icon.svg?width=36
-[tailwind]: https://api.iconify.design/logos:tailwindcss-icon.svg?width=36&height=36
-[sass]: https://api.iconify.design/logos:sass.svg?width=36
-[vue]: https://api.iconify.design/logos:vue.svg?width=36
-[flask]: https://api.iconify.design/logos:flask.svg?width=36
-[vscode]: https://api.iconify.design/logos:visual-studio-code.svg?width=36
-[pycharm]: https://api.iconify.design/logos:pycharm.svg?width=36
-[intellij]: https://api.iconify.design/logos:intellij-idea.svg?width=36
-[clion]: https://api.iconify.design/logos:clion.svg?width=36
-[sublime]: https://api.iconify.design/logos:sublimetext-icon.svg?width=36
-[neovim]: https://api.iconify.design/simple-icons:neovim.svg?width=36&color=%235b9a35
-[emacs]: https://api.iconify.design/vscode-icons:file-type-emacs.svg?width=36
-[git]: https://api.iconify.design/logos:git-icon.svg?width=36
-[redis]: https://api.iconify.design/logos:redis.svg?width=36
-[nginx]: https://api.iconify.design/logos:nginx.svg?width=36
-
-<h3>Languages and syntax</h3>
-
-[![python][python]](https://python.org/)
-&nbsp;[![Rust][rust]](https://rust-lang.org/)
-&nbsp;[![html][html]](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-&nbsp;[![css][css]](https://developer.mozilla.org/en-US/docs/Web/CSS)
-&nbsp;[![javascript][js]](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-&nbsp;[![NodeJS][node]](https://nodejs.org)
-&nbsp;[![typescript][ts]](https://typescriptlang.org/)
-&nbsp;[![sass][sass]](https://sass-lang.com/)
-&nbsp;[![go][go]](https://golang.org/)
-&nbsp;[![c][c]](https://en.cppreference.com/w/c)
-&nbsp;[![bash][bash]](https://www.gnu.org/software/bash/)
-
-<h3>Frameworks</h3>
-
-[![Svelte][svelte]](https://svelte.dev/)
-&nbsp;[![Tailwind][tailwind]](https://tailwindcss.com/)
-&nbsp;[![VueJS][vue]](https://vuejs.org)
-&nbsp;[![Flask][flask]](https://palletsprojects.com/p/flask/)
-
-<h3>Tools</h3>
-
-[![VSCode][vscode]](https://code.visualstudio.com/)
-&nbsp;[![Sublime Text][sublime]](https://www.sublimetext.com/)
-&nbsp;[![Neovim][neovim]](https://neovim.io/)
-&nbsp;[![Emacs][emacs]](https://www.gnu.org/software/emacs/)
-&nbsp;[![pycharm][pycharm]](https://www.jetbrains.com/pycharm/)
-&nbsp;[![intellij idea][intellij]](https://jetbrains.com/idea/)
-&nbsp;[![clion][clion]](https://jetbrains.com/clion/)
-&nbsp;[![Git][git]](https://git-scm.com/)
-&nbsp;[![postgresql][postgres]](https://postgresql.org/)
-&nbsp;[![Redis][redis]](https://redis.io/)
-&nbsp;[![Nginx][nginx]](https://nginx.org/en/)
+I'm looking to contribute on Rust/Python projects, if you want some bad jokes in your commit messages.
 
 <h2>Devices</h2>
 
