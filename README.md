@@ -81,12 +81,12 @@ I'm looking to contribute on Rust/Python projects, if you want some bad jokes in
 ***
 
 This README *dynamically updates* using GitHub Actions every hour.
-It last updated at **08-07-2021, 12:34 UTC**.
+It last updated at **08-07-2021, 13:29 UTC**.
 
 ***
 
 <details>
-<summary>🕛 World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕐 World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -94,7 +94,7 @@ It last updated at **08-07-2021, 12:34 UTC**.
 <details>
 <summary>🌙 Lunar phase</summary>
 
-The moon is approximately 99.10% through its phase ().
+The moon is approximately 99.23% through its phase ().
 
 </details>
 <details>
@@ -105,5 +105,5 @@ The moon is approximately 99.10% through its phase ().
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [██████████▁▁▁▁▁▁▁▁▁▁] 51.65%</code></pre>
+<pre><code>2021 [██████████▁▁▁▁▁▁▁▁▁▁] 51.66%</code></pre>
 </details>
