@@ -72,16 +72,16 @@ I'm looking to contribute on Rust/Python projects, if you want some bad jokes in
 ***
 
 <!-- Styles are ignored in README rendering on GitHub profile but work on GitHub Pages -->
-- <img src="https://api.iconify.design/simple-icons:android.svg?color=%2330d780" width="18" style="vertical-align: middle"> `Isengard`
-- <img src="https://api.iconify.design/simple-icons:archlinux.svg?color=%23168eca" width="18" style="vertical-align: middle"> `Mordor` - Daily driver
+- <img src="https://cdn.varunj.me/android.svg" width="18" style="vertical-align: middle"> `Isengard`
+- <img src="https://api.iconify.design/logos:archlinux.svg" width="18" style="vertical-align: middle"> `Mordor` - Daily driver
 - <img src="https://cdn.varunj.me/win11.svg" width="18" style="vertical-align: middle"> `Gondor` - College/music
-- <img src="https://api.iconify.design/simple-icons:ubuntu.svg?color=%23d64613" width="18" style="vertical-align: middle"> `Shire` - Server host
-- <img src="https://api.iconify.design/simple-icons:ubuntu.svg?color=%23d64613" width="18" style="vertical-align: middle"> `Rivendell` - Alternate server host
+- <img src="https://api.iconify.design/logos:ubuntu.svg" width="18" style="vertical-align: middle"> `Shire` - Server host
+- <img src="https://api.iconify.design/logos:ubuntu.svg" width="18" style="vertical-align: middle"> `Rivendell` - Alternate server host
 
 ***
 
 This README *dynamically updates* using GitHub Actions every hour.
-It last updated at **16-07-2021, 09:22 UTC**.
+It last updated at **16-07-2021, 09:25 UTC**.
 
 ***
 
@@ -94,7 +94,7 @@ It last updated at **16-07-2021, 09:22 UTC**.
 <details>
 <summary>🌓 Lunar phase</summary>
 
-The moon is approximately 25.74% through its phase (First Quarter).
+The moon is approximately 25.75% through its phase (First Quarter).
 
 </details>
 <details>
