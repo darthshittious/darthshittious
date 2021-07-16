@@ -81,7 +81,7 @@ I'm looking to contribute on Rust/Python projects, if you want some bad jokes in
 ***
 
 This README *dynamically updates* using GitHub Actions every hour.
-It last updated at **16-07-2021, 09:14 UTC**.
+It last updated at **16-07-2021, 09:22 UTC**.
 
 ***
 
@@ -94,7 +94,7 @@ It last updated at **16-07-2021, 09:14 UTC**.
 <details>
 <summary>🌓 Lunar phase</summary>
 
-The moon is approximately 25.72% through its phase (First Quarter).
+The moon is approximately 25.74% through its phase (First Quarter).
 
 </details>
 <details>
@@ -105,5 +105,5 @@ The moon is approximately 25.72% through its phase (First Quarter).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [██████████▁▁▁▁▁▁▁▁▁▁] 53.80%</code></pre>
+<pre><code>2021 [██████████▁▁▁▁▁▁▁▁▁▁] 53.81%</code></pre>
 </details>
