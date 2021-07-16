@@ -72,11 +72,11 @@ I'm looking to contribute on Rust/Python projects, if you want some bad jokes in
 ***
 
 <!-- Styles are ignored in README rendering on GitHub profile but work on GitHub Pages -->
-- <img src="https://api.iconify.design/simple-icons:android.svg?color=%2330d780" width="18" style="vertical-align: middle"> `Isengard`
-- <img src="https://api.iconify.design/simple-icons:archlinux.svg?color=%23168eca" width="18" style="vertical-align: middle"> `Mordor` - Daily driver
+- <img src="https://cdn.varunj.me/android.svg" width="18" style="vertical-align: middle"> `Isengard`
+- <img src="https://api.iconify.design/logos:archlinux.svg" width="18" style="vertical-align: middle"> `Mordor` - Daily driver
 - <img src="https://cdn.varunj.me/win11.svg" width="18" style="vertical-align: middle"> `Gondor` - College/music
-- <img src="https://api.iconify.design/simple-icons:ubuntu.svg?color=%23d64613" width="18" style="vertical-align: middle"> `Shire` - Server host
-- <img src="https://api.iconify.design/simple-icons:ubuntu.svg?color=%23d64613" width="18" style="vertical-align: middle"> `Rivendell` - Alternate server host
+- <img src="https://api.iconify.design/logos:ubuntu.svg" width="18" style="vertical-align: middle"> `Shire` - Server host
+- <img src="https://api.iconify.design/logos:ubuntu.svg" width="18" style="vertical-align: middle"> `Rivendell` - Alternate server host
 
 ***
 
