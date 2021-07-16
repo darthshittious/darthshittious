@@ -74,19 +74,19 @@ I'm looking to contribute on Rust/Python projects, if you want some bad jokes in
 <!-- Styles are ignored in README rendering on GitHub profile but work on GitHub Pages -->
 - <img src="https://api.iconify.design/simple-icons:android.svg?color=%2330d780" width="18" style="vertical-align: middle"> `Isengard`
 - <img src="https://api.iconify.design/simple-icons:archlinux.svg?color=%23168eca" width="18" style="vertical-align: middle"> `Mordor` - Daily driver
-- <img src="https://api.iconify.design/simple-icons:windows.svg?color=%2300a8e8" width="18" style="vertical-align: middle"> `Gondor` - College/music
+- <img src="https://cdn.varunj.me/win11.svg" width="18" style="vertical-align: middle"> `Gondor` - College/music
 - <img src="https://api.iconify.design/simple-icons:ubuntu.svg?color=%23d64613" width="18" style="vertical-align: middle"> `Shire` - Server host
 - <img src="https://api.iconify.design/simple-icons:ubuntu.svg?color=%23d64613" width="18" style="vertical-align: middle"> `Rivendell` - Alternate server host
 
 ***
 
 This README *dynamically updates* using GitHub Actions every hour.
-It last updated at **16-07-2021, 08:24 UTC**.
+It last updated at **16-07-2021, 09:14 UTC**.
 
 ***
 
 <details>
-<summary>🕗 World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕘 World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -94,7 +94,7 @@ It last updated at **16-07-2021, 08:24 UTC**.
 <details>
 <summary>🌓 Lunar phase</summary>
 
-The moon is approximately 25.60% through its phase (First Quarter).
+The moon is approximately 25.72% through its phase (First Quarter).
 
 </details>
 <details>
@@ -105,5 +105,5 @@ The moon is approximately 25.60% through its phase (First Quarter).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [██████████▁▁▁▁▁▁▁▁▁▁] 53.79%</code></pre>
+<pre><code>2021 [██████████▁▁▁▁▁▁▁▁▁▁] 53.80%</code></pre>
 </details>
